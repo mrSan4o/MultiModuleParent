@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name="by.san4os.calculator.CalculatorActivity"/>
+        <activity android:name="by.san4os.currenttime.CurrentTimeActivity"/>
     </application>
 
 </manifest>
