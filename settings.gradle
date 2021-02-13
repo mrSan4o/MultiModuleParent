@@ -1,0 +1,4 @@
+include ':calculator'
+include ':currenttime'
+include ':app'
+rootProject.name = "MultiModulesApplication"
