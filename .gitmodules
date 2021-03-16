@@ -1,3 +1,6 @@
 [submodule "AndroidSoapClient"]
 	path = AndroidSoapClient
 	url = https://github.com/mrSan4o/AndroidSoapClient.git
+[submodule "lib-calculator"]
+	path = lib-calculator
+	url = https://github.com/mrSan4o/multi-module-lib-calculator.git
