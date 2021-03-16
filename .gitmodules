@@ -4,3 +4,4 @@
 [submodule "lib-calculator"]
 	path = lib-calculator
 	url = https://github.com/mrSan4o/multi-module-lib-calculator.git
+	branch = master
